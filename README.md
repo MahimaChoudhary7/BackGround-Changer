@@ -28,10 +28,11 @@ To use or contribute to this project, follow these instructions:
    git clone https://github.com/your-username/BackGround-Changer.git
    
 2. **Navigate to the Project Directory**
-   
+
+   ```bash
    cd BackGround-Changer
    
-3. **Open index.html** in Your Web Browser.
+4. **Open index.html** in Your Web Browser.
 
    You can simply double-click index.html or open it through your preferred browser.
 
